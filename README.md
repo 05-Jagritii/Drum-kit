@@ -36,7 +36,21 @@ start index.html
 ```
 
 Alternatively, use a Live Server extension in your code editor for live preview.
-
+## Project Structure
+```
+\drum-kit/
+├── index.html
+├── style.css
+├── script.js
+└── sounds/
+    ├── crash.mp3
+    ├── kick-bass.mp3
+    ├── snare.mp3
+    ├── tom-1.mp3
+    ├── tom-2.mp3
+    ├── tom-3.mp3
+    └── tom-4.mp3
+```
 ## Author
 Jagriti Kanwar
 <br>
